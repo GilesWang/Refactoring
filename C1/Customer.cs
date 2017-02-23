@@ -10,5 +10,8 @@ namespace C1
     {
         public void Test()
         { }
+
+        public void Test2()
+        { }
     }
 }
