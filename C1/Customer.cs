@@ -8,5 +8,7 @@ namespace C1
 {
     class Customer
     {
+        public void Test()
+        { }
     }
 }
